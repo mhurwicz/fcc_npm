@@ -1,0 +1,12 @@
+{
+  "name": "@mhurwicz/dev",
+  "version": "1.0.0",
+  "description": "how-to-npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Michael Hurwicz",
+  "license": "ISC",
+  "repository":
+}
